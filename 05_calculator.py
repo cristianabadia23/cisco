@@ -1,4 +1,3 @@
-import os
 def menu():
     try:
         print("1 Suma \n", "2 Resta \n", "3 muliplicacion \n", "4 division \n",
